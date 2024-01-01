@@ -8,4 +8,4 @@ BoB.zip 프로젝트는 냉장고에 있는 식재료를 입력하고, 그에 �
 3. 검색한 레시피에 대한 댓글기능을 통해 소통 할 수 있습니다.
 
 ## 사용 기술
-java/spring , JSP, HTML, CSS, JavaScript
+java/spring , JSP, HTML, CSS, JavaScript, Mybatis, MySQL
